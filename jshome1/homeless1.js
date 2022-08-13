@@ -2,6 +2,46 @@
 // Uyga ishi Masalalar
 
 
+//  ==== 9.masala =======
+
+// let tt=+prompt("sonni kirirting");
+// if(tt>0){
+// alert("musbat son")
+// } else{
+//     alert("manfiy son")
+
+// }
+
+//  ===== 10 va 11.masal====
+
+// let x=prompt("sonni kiriting");
+
+// if(x%2==0){
+//     alert("sonn juft")
+
+// }else if(x==1){
+//     alert("son toq ham, juft ham emas")
+// }else{
+//     alert("toq son")
+// }
+
+// ======= 12.masala ============
+
+// let xx=+prompt("sonni kirirting");
+// let yy=+prompt("sonni kieiting");
+
+// if(xx>0 && yy>0){
+// alert("musbat")
+// }else if(xx>0 && yy<0){
+//     alert("birinchi musbat, ikkinchi manfiy")
+// }else if(xx<0 && yy>0){
+//     alert("birinchi manfiy, ikkinchi musbat")
+// }else{
+//     alert("sonlar manfiy")
+// }
+
+
+
 
 // ===== 2.masala =====
 
@@ -11,6 +51,14 @@
 // } else {
 //     console.log('No! Toq son')
 // }
+
+// ====== 3.masala ===========
+
+// let aa=+prompt("a sonni kirirting");
+// let bb=+prompt("b sonni kiriting");
+
+// console.log("a sonni ichida", Math.floor(aa/bb), "ta joylashgan");
+
 
 
 //  =========  4. masala ========
@@ -137,11 +185,6 @@
 //     } 
    
 //     };
-
-
-
-
-
 
 
 
